@@ -1,0 +1,12 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/miju-Park/typechain.git",
+  "author": "miju462.park <miju462.park@hanwha.com>",
+  "license": "MIT",
+  "scripts" :{
+    "start" : "node index.js",
+    "prestart" : "tsc"
+  }
+}
